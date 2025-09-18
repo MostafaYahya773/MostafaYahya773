@@ -16,21 +16,15 @@ Always learning, exploring new technologies, and improving user experiences.
 
 ---
 
+## 🏅 Training & Courses
+- **Route Academy** - Frontend Diploma  
+- **ITI Training** - Frontend training
+
 ## 🛠 Skills
 - **Languages:** JavaScript (ES6+), TypeScript  
 - **Frameworks:** React js, Next.js  
 - **Styling:** TailwindCSS, Bootstrap   
 - **Tools:** Git, Vercel  
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mostafayahya877&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafayahya877&layout=compact&theme=radical)
-
-
 
 ---
 
