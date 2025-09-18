@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mostafa Yehia  
+**Frontend Developer | React js | Next.js · TailwindCSS**
 
-<!--
-**MostafaYahya773/MostafaYahya773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate frontend developer who loves building clean, responsive, and fast web applications.  
+Always learning, exploring new technologies, and improving user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+- **Bachelor’s in Information Technology**  
+  Sadat Academy for Management Sciences  
+  (Graduated: 2024)
+
+---
+
+## 🛠 Skills
+- **Languages:** JavaScript (ES6+), TypeScript  
+- **Frameworks:** React js, Next.js  
+- **Styling:** TailwindCSS, Bootstrap   
+- **Tools:** Git, Vercel  
+
+---
+
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafayahya877&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [https://www.linkedin.com/in/mostafa-yahya-78a780286/](#)  
+- Email: mostafayahya000@gmail.com  
