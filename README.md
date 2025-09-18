@@ -26,9 +26,10 @@ Always learning, exploring new technologies, and improving user experiences.
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafayahya877&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mostafayahya877&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafayahya877&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mostafayahya877&layout=compact&theme=radical)
+
 
 
 ---
